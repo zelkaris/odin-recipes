@@ -1,0 +1,28 @@
+* {
+    font-family: monospace, serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.food-image {
+    text-align: center;
+}
+
+    img {
+        border: solid 5px black;
+    }
+
+        .breaded-chicken-cutlet {
+            width: 25%;
+        }
+
+ul,
+ol {
+    background-color: cornsilk;
+}
+
+    li {
+        border-bottom: solid 1px lightblue;
+    }
